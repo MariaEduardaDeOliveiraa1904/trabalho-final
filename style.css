@@ -1,0 +1,92 @@
+@media only screen and (max-width: 600px) {
+
+
+body {background-color: rgb(92, 111, 153);}
+}
+.p1 {text-align: center;
+font-size: 130%;
+color: rgb(243, 222, 222);
+border-color: rgb(255, 255, 255);
+border-width: 8px;
+border-style: double;
+margin-left: 10%;
+margin-right: 10%;
+padding-left: 1%;
+padding-top: 3%;
+background-color: rgb(42, 20, 63);
+
+}
+ 
+.p2 {text-align: center;
+color: aliceblue;
+font-size: 100%;
+border-color: rgb(255, 255, 255);
+border-width: 8px;
+border-style: double;
+margin-left: 5%;
+margin-right: 5%;
+padding-top: 3%;
+background-color: rgb(42, 20, 63);
+
+
+
+}
+
+.p3 {text-align: center;
+    color: aliceblue;
+    font-size: 70%;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    border-style: double;
+    margin-left: 30%;
+    margin-right: 50%;
+    padding-top: 2%;
+    background-color: rgb(196, 133, 255);}
+
+    .p4 {text-align: center;
+        color: aliceblue;
+        font-size: 100%;
+        border-color: rgb(255, 255, 255);
+        border-width: 3px;
+        border-style: dashed;
+        margin-left: 50%;
+        margin-right: 30%;
+        padding-top: 2%;
+        background-color: rgb(90, 60, 119);}
+        
+
+.p5 {text-align: center;
+    color: aliceblue;
+    font-size: 100%;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    border-style: double;
+    margin-left: 30%;
+    margin-right: 50%;
+    padding-top: 2%;
+    background-color: rgb(141, 132, 150);}
+
+
+    .p6 {text-align: center;
+        color: aliceblue;
+        font-size: 100%;
+        border-color: rgb(255, 255, 255);
+        border-width: 3px;
+        border-style: dashed;
+        margin-left: 50%;
+        margin-right: 30%;
+        padding-top: 1%;
+        background-color: rgb(69, 56, 82);}
+
+        .p7 {ext-align: center;
+            color: aliceblue;
+            font-size: 100%;
+            border-color: rgb(255, 255, 255);
+            border-width: 3px;
+            border-style: dashed;
+            margin-left: 50%;
+            margin-right: 30%;
+            padding-top: 1%;
+            background-color: rgb(69, 56, 82);}
+    
+    
